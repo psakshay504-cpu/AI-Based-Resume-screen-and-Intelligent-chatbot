@@ -1,0 +1,19 @@
+Ananya Rao
+Machine Learning Engineer
+
+Summary:
+Machine Learning Engineer with 3 years of experience building and deploying NLP and
+computer vision models using Python, TensorFlow, and PyTorch. Skilled in data preprocessing,
+model training, and cloud deployment on AWS.
+
+Experience:
+- Built text classification and embedding-based search systems using PyTorch and Hugging Face transformers
+- Deployed deep learning models to production using AWS SageMaker
+- Worked with SQL and Airflow to build data pipelines for training datasets
+- Collaborated with data engineering and product teams to ship ML features
+
+Skills:
+Python, TensorFlow, PyTorch, scikit-learn, NLP, computer vision, AWS, SQL, data pipelines
+
+Education:
+B.Tech in Computer Science, IIT Bombay

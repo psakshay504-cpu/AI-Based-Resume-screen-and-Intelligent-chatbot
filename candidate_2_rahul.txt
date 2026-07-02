@@ -1,0 +1,18 @@
+Rahul Mehta
+Full Stack Web Developer
+
+Summary:
+Full stack developer with 4 years of experience building web applications using
+JavaScript, React, and Node.js. Some exposure to Python scripting and basic data analysis.
+
+Experience:
+- Built responsive web applications using React, Node.js, and Express
+- Wrote Python scripts for data cleaning and basic automation tasks
+- Used SQL databases (PostgreSQL) for backend data storage
+- Collaborated with designers and product managers on feature delivery
+
+Skills:
+JavaScript, React, Node.js, Python (basic), SQL, HTML, CSS, Git
+
+Education:
+B.E. in Information Technology, Pune University

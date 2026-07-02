@@ -1,0 +1,19 @@
+Sneha Iyer
+Data Scientist
+
+Summary:
+Data Scientist with a Master's degree in Data Science and 2 years of experience in
+machine learning, natural language processing, and statistical modeling. Proficient
+in Python and scikit-learn, with growing experience in TensorFlow.
+
+Experience:
+- Developed NLP models for text classification and sentiment analysis using scikit-learn and TensorFlow
+- Built data pipelines using SQL and Pandas for feature engineering
+- Deployed ML models on GCP for internal business tools
+- Presented model results and insights to cross-functional stakeholders
+
+Skills:
+Python, scikit-learn, TensorFlow, NLP, SQL, GCP, Pandas, statistics
+
+Education:
+M.S. in Data Science, University of Mumbai
